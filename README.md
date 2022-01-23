@@ -216,15 +216,15 @@ Publish the website in the given URL.
 
 ### output1:
 
-![output1](./o1.jpg)
+![output1](./s1.jpg)
 
 ### output2:
 
-![output2](./o2.jpg)
+![output2](./s2.jpg)
 
 ### output3:
 
-![output3](./o3.jpg)
+![output3](./s3.jpg)
 
  
 ## Result:
